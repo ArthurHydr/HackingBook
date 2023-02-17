@@ -4,10 +4,4 @@ description: ':)'
 
 # 🥶 Start
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
+{% embed url="https://github.com/ArthurHydr/HackingBook" %}
