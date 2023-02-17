@@ -22,4 +22,4 @@
   * [XSS | Stored](vulnerabilities/xss/xss-or-stored.md)
   * [XSS SCANNER](vulnerabilities/xss/xss-scanner.md)
 * [SQLI](vulnerabilities/sqli/README.md)
-  * [SQLI | Error Based](vulnerabilities/sqli/sqli-or-error-based.md)
+  * [SQLI (MySQL) | Error Based](vulnerabilities/sqli/sqli-or-error-based.md)
