@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Login bypass with POST
 
 ## Context:
@@ -12,3 +13,10 @@ curl -X POST url > index.html
 ````
 **Note:**
 The CURL used POST to get the final page and is saved on index.html
+=======
+# prompt() login bypass with POST
+
+If an application uses GET to show prompt() login to the access page, try to use POST to get access to the final page.\
+\
+ex: `curl -X POST url > index.html`
+>>>>>>> 0b16bc40acedf16ba33aced82cf1fba71482964d
