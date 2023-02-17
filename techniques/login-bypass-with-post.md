@@ -1,6 +1,10 @@
+---
+Application needs to use GET method
+---
+
 # Login bypass with POST
 
-## Context:
+**Context:**
 
 > If an application uses GET to show prompt() login to the access page, try to use POST to get access to the final page.
 
