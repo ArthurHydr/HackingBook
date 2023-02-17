@@ -7,3 +7,7 @@
 {% content-ref url="../../techniques/sqli-to-rce.md" %}
 [sqli-to-rce.md](../../techniques/sqli-to-rce.md)
 {% endcontent-ref %}
+
+{% content-ref url="../../techniques/sqli-or-bypass-addslashes.md" %}
+[sqli-or-bypass-addslashes.md](../../techniques/sqli-or-bypass-addslashes.md)
+{% endcontent-ref %}
