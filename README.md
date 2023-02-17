@@ -4,4 +4,4 @@ description: ':)'
 
 # 🥶 Start
 
-{% embed url="https://github.com/ArthurHydr/HackingBook" %}
+[Github Project](https://github.com/ArthurHydr/HackingBook "@embed")
