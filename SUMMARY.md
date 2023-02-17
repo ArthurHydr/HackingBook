@@ -4,7 +4,7 @@
 
 ## 🧨 Techniques
 
-* [prompt() login bypass with POST](techniques/prompt-login-bypass-with-post.md)
+* [Login bypass with POST](techniques/login-bypass-with-post.md)
 * [See possible parameters of the application](techniques/see-possible-parameters-of-the-application.md)
 
 ## 💣 Vulnerabilities
