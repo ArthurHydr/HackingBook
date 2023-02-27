@@ -23,3 +23,4 @@
   * [XSS SCANNER](vulnerabilities/xss/xss-scanner.md)
 * [SQLI](vulnerabilities/sqli/README.md)
   * [SQLI (MySQL) | Error Based](vulnerabilities/sqli/sqli-or-error-based.md)
+  * [SQLI (PostgreSQL) | Error Based](vulnerabilities/sqli/sqli-postgresql-or-error-based.md)
